@@ -1,0 +1,6 @@
+h2 {margin-bottom:20px;}
+.video {margin-bottom:40px;border:solid 1px #7f7f7f;background-color:#cfcfcf;padding:8px;}
+.video iframe {border:solid 1px #7f7f7f;}
+.video p {font-size:11px;margin-top:8px;}
+.video p a {font-size:20px;color:#7f7f7f;text-decoration:none;}
+.video p a:hover {color:#ea7e3f;}

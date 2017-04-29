@@ -1,0 +1,59 @@
+a.rss {display:inline-block;width:16px;height:16px;background:url('../images/rss_16.png') no-repeat top left;text-indent:-10000px;}
+
+#page {top:630px;}
+
+#feature {position:absolute;width:970px;height:609px;top:160px;left:50%;margin-left:-485px;z-index:3;}
+#feature .content {position:absolute;top:90px;left:120px;z-index:2;width:729px;}
+#feature .content h2 {display:block;text-indent:-10000px;background:url('../images/feature/o-sad-and-future-human.png') no-repeat top left;width:729px;height:24px;margin-bottom:30px;}
+#feature .content .split > .left {width:340px;background-color:#fff;padding:8px 0 0 8px;}
+#feature .content .split > .right {margin-left:20px;width:353px;}
+#feature .background {position:absolute;top:0;left:0;z-index:1;border-spacing:0;}
+#feature .buy-button {display:block;width:233px;height:57px;text-indent:-10000px;background:url('../images/feature/buy-button.png') no-repeat top left;margin:15px 0 15px 0;}
+#feature .stores > ul {list-style:none;}
+#feature .stores > ul > li {float:left;margin-left:24px;margin-top:15px;}
+#feature .stores li.no-margin {margin-left:0;}
+#feature .stores > ul > li > a {display:block;width:96px;height:96px;text-indent:-10000px;}
+#feature .stores .spotify {background:url('../images/feature/store-spotify.png') no-repeat top left;}
+#feature .stores .amazon-mp3 {background:url('../images/feature/store-amazon-mp3.png') no-repeat top left;}
+#feature .stores .itunes {background:url('../images/feature/store-itunes.png') no-repeat top left;}
+#feature .stores .napster {background:url('../images/feature/store-napster.png') no-repeat top left;}
+#feature .stores .rhapsody {background:url('../images/feature/store-rhapsody.png') no-repeat top left;}
+#feature .stores .amazon-ondemand {background:url('../images/feature/store-amazon.png') no-repeat top left;}
+
+#page .split > .left {width:490px;}
+#page .split > .right {width:254px;margin-left:20px;}
+
+#social {overflow:hidden;margin-bottom:30px;list-style:none;}
+#social li {float:left;margin-left:20px;}
+#social li:first-child {margin:0;}
+#social a {display:block;width:32px;height:32px;text-indent:-10000px;}
+#social .facebook {background:url('../images/social/facebook.png') no-repeat top left;}
+#social .twitter {background:url('../images/social/twitter.png') no-repeat top left;}
+#social .lastfm {background:url('../images/social/lastfm.png') no-repeat top left;}
+#social .vimeo {background:url('../images/social/vimeo.png') no-repeat top left;}
+#social .flickr {background:url('../images/social/flickr.png') no-repeat top left;}
+#social .myspace {background:url('../images/social/myspace.png') no-repeat top left;}
+
+#news h2 a {color:#000000;text-decoration:none;}
+#news h2 .rss {margin-left:12px;}
+#news ul {list-style:none;}
+#news ul li {margin-bottom:18px;}
+#news ul li .date {display:block;font-size:11px;}
+#news ul li a {text-decoration:none;color:#000000;}
+#news ul li.first {border:solid 1px #7f7f7f;background-color:#cfcfcf;padding:8px;}
+#news ul li.first img {width:472px;}
+#news ul li .body {font-size:12px;margin-top:10px;}
+#news ul li .body p {margin-bottom:0.75em;}
+#news ul li .body a {color:#ea7e3f;}
+#news a:hover {color:#ea7e3f;}
+#news .view-more {color:#ea7e3f;font-size:11px;text-decoration:none;}
+
+#shows h2 .rss {margin-left:12px;}
+#shows ul {list-style:none;}
+#shows ul li {margin-bottom:12px;}
+#shows ul li .date {display:block;font-size:11px;}
+#shows ul li .location {display:block;font-size:11px;}
+#shows ul li a {text-decoration:none;color:#000000;}
+#shows ul li .name {display:block;}
+#shwos ul li .venue {display:block;}
+#shows a:hover {color:#ea7e3f}

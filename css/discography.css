@@ -1,0 +1,14 @@
+#discography {list-style:none;margin-top:12px;}
+#discography li {margin-top:24px;}
+#discography li:first-child {margin:0;}
+#discography .split > .left {width:250px;}
+#discography .split > .right {width:494px;margin-left:20px;}
+#discography .cover-art {width:250px;height:250px;border:solid 1px #000000;}
+#discography h3 {margin-bottom:8px;}
+#discography dl {overflow:hidden;}
+#discography dt {font-weight:bold;}
+#discography dd {margin-bottom:12px;}
+#discography dd ol, #discography dd ul {margin-left:24px;}
+#discography dd li {margin:0;}
+#discography p {margin-bottom:0.5em;}
+#discography a {color:#ea7e3f;display:inline-block;margin-top:8px;}
